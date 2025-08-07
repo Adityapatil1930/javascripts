@@ -60,3 +60,4 @@ console.log(strr1.lastIndexOf("l"));
 let strr2="10000"
 console.log(strr2.padEnd(10,"X"));
 
+ 
